@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LuaRapidjson.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\GitHub\ARPG_Demo\Intermediate\Build\Win64\x64\ARPG_DemoEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\Documents\GitHub\ARPG_Demo\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaRapidjson\LuaRapidjsonModule.cpp.obj"
+"D:\Documents\GitHub\ARPG_Demo\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaRapidjson\Document.cpp.obj"
+"D:\Documents\GitHub\ARPG_Demo\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaRapidjson\rapidjson.cpp.obj"
+"D:\Documents\GitHub\ARPG_Demo\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaRapidjson\Schema.cpp.obj"
+"D:\Documents\GitHub\ARPG_Demo\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaRapidjson\values.cpp.obj"
+"D:\Documents\GitHub\ARPG_Demo\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaRapidjson\Default.rc2.res"
+/OUT:"D:\Documents\GitHub\ARPG_Demo\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaRapidjson\UnrealEditor-LuaRapidjson.lib"

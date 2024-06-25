@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\documents\\github\\arpg_demo\\plugins\\unluaextensions\\luasocket\\source\\src\\except.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documents\\github\\arpg_demo\\intermediate\\build\\win64\\x64\\arpg_demoeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\documents\\github\\arpg_demo\\plugins\\unluaextensions\\luasocket\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\luasocket\\definitions.luasocket.h",
+            "d:\\documents\\github\\arpg_demo\\plugins\\unluaextensions\\luasocket\\source\\src\\luasocket.h",
+            "d:\\documents\\github\\arpg_demo\\plugins\\unlua\\source\\unlua\\public\\lua.hpp",
+            "d:\\documents\\github\\arpg_demo\\plugins\\unlua\\source\\thirdparty\\lua\\lua-5.4.3\\src\\lua.h",
+            "d:\\documents\\github\\arpg_demo\\plugins\\unlua\\source\\thirdparty\\lua\\lua-5.4.3\\src\\luaconf.h",
+            "d:\\documents\\github\\arpg_demo\\plugins\\unlua\\source\\thirdparty\\lua\\lua-5.4.3\\src\\lualib.h",
+            "d:\\documents\\github\\arpg_demo\\plugins\\unlua\\source\\thirdparty\\lua\\lua-5.4.3\\src\\lauxlib.h",
+            "d:\\documents\\github\\arpg_demo\\plugins\\unluaextensions\\luasocket\\source\\src\\except.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

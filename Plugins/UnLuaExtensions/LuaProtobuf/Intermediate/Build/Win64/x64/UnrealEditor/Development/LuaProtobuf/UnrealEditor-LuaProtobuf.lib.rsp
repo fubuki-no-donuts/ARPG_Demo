@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LuaProtobuf.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\GitHub\ARPG_Demo\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaProtobuf\PCH.LuaProtobuf.h.obj"
+"D:\Documents\GitHub\ARPG_Demo\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaProtobuf\LuaProtobufModule.cpp.obj"
+"D:\Documents\GitHub\ARPG_Demo\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaProtobuf\pb.cpp.obj"
+"D:\Documents\GitHub\ARPG_Demo\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaProtobuf\Default.rc2.res"
+/OUT:"D:\Documents\GitHub\ARPG_Demo\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaProtobuf\UnrealEditor-LuaProtobuf.lib"
